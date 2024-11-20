@@ -1,2 +1,3 @@
 0849. 🐛 fix: correct typo in registration form
 0145. 📚 docs: improve code comments in utils
+0893. 🐛 fix: handle 500 error in quiz API
