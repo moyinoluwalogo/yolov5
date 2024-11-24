@@ -15,3 +15,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0265. 🎨 style: reformat files with black
 0103. 🔧 refactor: remove redundant code blocks
+0292. 📚 docs: clarify environment setup
