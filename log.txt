@@ -17,3 +17,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0292. 📚 docs: clarify environment setup
 0392. 🎨 style: remove trailing whitespace
+0206. 🐛 fix: handle 500 error in quiz API
