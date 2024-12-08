@@ -39,3 +39,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0682. ♻️ chore: rename env.example
 0307. ✨ feat: support email verification
+0034. 📚 docs: improve code comments in utils
