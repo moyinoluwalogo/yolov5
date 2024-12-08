@@ -37,3 +37,4 @@
 0756. ✨ feat: support email verification
 0852. ✨ feat: enable dark mode toggle
 0489. 🔧 refactor: organize models into subfolders
+0682. ♻️ chore: rename env.example
