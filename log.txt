@@ -40,3 +40,4 @@
 0682. ♻️ chore: rename env.example
 0307. ✨ feat: support email verification
 0034. 📚 docs: improve code comments in utils
+0903. ✅ test: mock database connection in test suite
