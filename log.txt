@@ -45,3 +45,4 @@
 0029. 🚀 perf: lazy-load components
 0304. 🔧 refactor: remove redundant code blocks
 0380. 🐛 fix: fix null pointer exception on login
+0084. 🐛 fix: handle 500 error in quiz API
