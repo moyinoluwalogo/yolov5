@@ -48,3 +48,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0744. 🔧 refactor: remove redundant code blocks
 0398. 🚀 perf: cache repeated calculations
+0650. ✅ test: add unit test for quiz service
