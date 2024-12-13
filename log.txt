@@ -49,3 +49,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0398. 🚀 perf: cache repeated calculations
 0650. ✅ test: add unit test for quiz service
+0686. 🎨 style: standardize quote style
