@@ -56,3 +56,4 @@
 0141. 📚 docs: document token refresh logic
 0941. 🚀 perf: cache repeated calculations
 0098. 🎨 style: rename variables for clarity
+0488. ♻️ chore: add GitHub actions badge
