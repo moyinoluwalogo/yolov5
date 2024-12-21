@@ -61,3 +61,4 @@
 0586. 🎨 style: remove trailing whitespace
 0822. 🔧 refactor: remove redundant code blocks
 0274. 🔧 refactor: refactor quiz grading logic
+0976. ✨ feat: implement quiz timer feature
