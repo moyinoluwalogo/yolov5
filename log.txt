@@ -69,3 +69,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0880. 🐛 fix: fix broken CSS in mobile view
 0428. 🐛 fix: fix null pointer exception on login
+0637. 🎨 style: apply consistent indentation
