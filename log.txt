@@ -71,3 +71,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0637. 🎨 style: apply consistent indentation
 0484. 🐛 fix: handle 500 error in quiz API
+0623. 🎨 style: standardize quote style
