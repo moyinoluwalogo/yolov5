@@ -79,3 +79,4 @@
 0341. 🚀 perf: lazy-load components
 0221. ✨ feat: add user authentication
 0506. 🐛 fix: handle 500 error in quiz API
+0649. 📚 docs: update README with setup steps
