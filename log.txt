@@ -83,3 +83,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0378. 🐛 fix: prevent crash on empty input
 0899. 🚀 perf: cache repeated calculations
+0351. ✨ feat: add export to CSV option
