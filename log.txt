@@ -86,3 +86,4 @@
 0351. ✨ feat: add export to CSV option
 0699. 🎨 style: standardize quote style
 0290. ✅ test: test user registration edge cases
+0422. 🔧 refactor: organize models into subfolders
