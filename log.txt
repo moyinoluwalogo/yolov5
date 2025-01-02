@@ -85,3 +85,4 @@
 0899. 🚀 perf: cache repeated calculations
 0351. ✨ feat: add export to CSV option
 0699. 🎨 style: standardize quote style
+0290. ✅ test: test user registration edge cases
