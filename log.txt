@@ -105,3 +105,4 @@
 0519. 📚 docs: document token refresh logic
 0303. 🎨 style: rename variables for clarity
 0446. 🎨 style: apply consistent indentation
+0040. 🔧 refactor: clean up auth middleware
