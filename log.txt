@@ -107,3 +107,4 @@
 0446. 🎨 style: apply consistent indentation
 0040. 🔧 refactor: clean up auth middleware
 0619. ✨ feat: create admin dashboard
+0795. 📚 docs: update README with setup steps
