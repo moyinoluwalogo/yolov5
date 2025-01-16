@@ -111,3 +111,4 @@
 0704. 🚀 perf: cache repeated calculations
 0286. ✅ test: mock database connection in test suite
 0196. ♻️ chore: bump dependencies
+0791. 🔧 refactor: clean up auth middleware
