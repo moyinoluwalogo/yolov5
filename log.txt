@@ -127,3 +127,4 @@
 0635. 🎨 style: apply consistent indentation
 0516. ✅ test: add unit test for quiz service
 0344. ♻️ chore: add GitHub actions badge
+0333. 🚀 perf: cache repeated calculations
