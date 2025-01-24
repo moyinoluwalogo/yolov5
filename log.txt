@@ -131,3 +131,4 @@
 0037. 🐛 fix: correct typo in registration form
 0877. 🚀 perf: optimize database query for quiz results
 0677. 📚 docs: add API usage examples
+0854. ♻️ chore: rename env.example
