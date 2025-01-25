@@ -135,3 +135,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0345. 📚 docs: document token refresh logic
 0558. ✨ feat: enable dark mode toggle
+0383. 🐛 fix: fix broken CSS in mobile view
