@@ -133,3 +133,4 @@
 0677. 📚 docs: add API usage examples
 0854. ♻️ chore: rename env.example
 0805. ♻️ chore: add GitHub actions badge
+0345. 📚 docs: document token refresh logic
