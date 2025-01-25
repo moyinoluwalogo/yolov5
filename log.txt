@@ -134,3 +134,4 @@
 0854. ♻️ chore: rename env.example
 0805. ♻️ chore: add GitHub actions badge
 0345. 📚 docs: document token refresh logic
+0558. ✨ feat: enable dark mode toggle
