@@ -150,3 +150,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0638. 📚 docs: improve code comments in utils
 0228. 🔧 refactor: remove redundant code blocks
+0675. 🔧 refactor: organize models into subfolders
