@@ -151,3 +151,4 @@
 0638. 📚 docs: improve code comments in utils
 0228. 🔧 refactor: remove redundant code blocks
 0675. 🔧 refactor: organize models into subfolders
+0226. 🚀 perf: lazy-load components
