@@ -153,3 +153,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0226. 🚀 perf: lazy-load components
 0548. 📚 docs: write FAQ section
+0326. 🚀 perf: cache repeated calculations
