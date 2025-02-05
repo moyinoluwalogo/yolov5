@@ -163,3 +163,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0513. ♻️ chore: bump dependencies
 0642. 🚀 perf: optimize database query for quiz results
+0830. 🎨 style: apply consistent indentation
