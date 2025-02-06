@@ -165,3 +165,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0830. 🎨 style: apply consistent indentation
 0892. ✅ test: add unit test for quiz service
+0430. 🐛 fix: fix null pointer exception on login
