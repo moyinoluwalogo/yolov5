@@ -170,3 +170,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0685. ✅ test: test user registration edge cases
 0559. 🔧 refactor: split large controller into smaller functions
+0056. ♻️ chore: rename env.example
