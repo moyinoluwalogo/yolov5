@@ -168,3 +168,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0164. 📚 docs: document token refresh logic
 0500. ✅ test: add integration test for /submit endpoint
+0685. ✅ test: test user registration edge cases
