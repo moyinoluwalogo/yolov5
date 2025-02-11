@@ -180,3 +180,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0262. 🎨 style: remove trailing whitespace
 0144. ✅ test: increase coverage on auth module
+0584. 🚀 perf: lazy-load components
