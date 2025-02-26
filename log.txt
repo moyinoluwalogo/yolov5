@@ -202,3 +202,4 @@
 0750. 🎨 style: apply consistent indentation
 0390. 🎨 style: standardize quote style
 0689. 🎨 style: reformat files with black
+0393. 🚀 perf: lazy-load components
