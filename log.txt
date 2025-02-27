@@ -204,3 +204,4 @@
 0689. 🎨 style: reformat files with black
 0393. 🚀 perf: lazy-load components
 0624. ✅ test: add unit test for quiz service
+0911. ✅ test: increase coverage on auth module
