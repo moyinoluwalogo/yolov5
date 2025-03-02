@@ -208,3 +208,4 @@
 0069. 🎨 style: rename variables for clarity
 0687. 🎨 style: remove trailing whitespace
 0202. 🔧 refactor: refactor quiz grading logic
+0427. ✅ test: mock database connection in test suite
