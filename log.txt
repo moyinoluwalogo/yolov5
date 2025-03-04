@@ -215,3 +215,4 @@
 0087. ✨ feat: add export to CSV option
 0938. 🎨 style: rename variables for clarity
 0150. 🎨 style: remove trailing whitespace
+0817. 🔧 refactor: remove redundant code blocks
