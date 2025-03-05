@@ -218,3 +218,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0994. 🚀 perf: reduce image load time
 0441. 📚 docs: add API usage examples
+0970. ♻️ chore: update .gitignore
