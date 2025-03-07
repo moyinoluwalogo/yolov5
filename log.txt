@@ -222,3 +222,4 @@
 0420. 🚀 perf: reduce image load time
 0258. 🐛 fix: prevent crash on empty input
 0365. 🚀 perf: reduce image load time
+0077. ♻️ chore: rename env.example
