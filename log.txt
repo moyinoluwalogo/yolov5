@@ -225,3 +225,4 @@
 0077. ♻️ chore: rename env.example
 0679. ♻️ chore: bump dependencies
 0843. 📚 docs: document token refresh logic
+0053. ✅ test: increase coverage on auth module
