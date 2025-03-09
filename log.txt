@@ -227,3 +227,4 @@
 0843. 📚 docs: document token refresh logic
 0053. ✅ test: increase coverage on auth module
 0534. 🔧 refactor: split large controller into smaller functions
+0447. ♻️ chore: bump dependencies
