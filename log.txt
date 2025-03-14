@@ -234,3 +234,4 @@
 0412. ✅ test: increase coverage on auth module
 0414. 🔧 refactor: remove redundant code blocks
 0289. 🐛 fix: resolve issue with date parsing
+0866. 📚 docs: add API usage examples
