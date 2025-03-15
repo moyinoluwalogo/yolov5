@@ -236,3 +236,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0866. 📚 docs: add API usage examples
 0312. ✨ feat: add user authentication
+0195. 📚 docs: clarify environment setup
