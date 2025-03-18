@@ -242,3 +242,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0622. 🎨 style: apply consistent indentation
 0741. 🎨 style: apply consistent indentation
+0709. ♻️ chore: bump dependencies
