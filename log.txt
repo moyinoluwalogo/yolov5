@@ -247,3 +247,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0022. 📚 docs: document token refresh logic
 0581. ✅ test: add integration test for /submit endpoint
+0347. ♻️ chore: update .gitignore
