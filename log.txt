@@ -256,3 +256,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0628. ♻️ chore: add GitHub actions badge
 0633. ✨ feat: add user authentication
+0536. ✨ feat: add user authentication
