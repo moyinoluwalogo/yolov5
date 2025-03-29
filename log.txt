@@ -263,3 +263,4 @@
 0050. ✨ feat: enable dark mode toggle
 0975. 🎨 style: apply consistent indentation
 0038. 🎨 style: rename variables for clarity
+0724. ✅ test: mock database connection in test suite
