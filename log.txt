@@ -269,3 +269,4 @@
 0784. ♻️ chore: clean up unused files
 0589. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
+0213. ✅ test: add integration test for /submit endpoint
