@@ -270,3 +270,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
 0213. ✅ test: add integration test for /submit endpoint
+0308. 🚀 perf: reduce image load time
