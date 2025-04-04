@@ -273,3 +273,4 @@
 0308. 🚀 perf: reduce image load time
 0001. 🚀 perf: cache repeated calculations
 0684. 🚀 perf: reduce image load time
+0371. ✅ test: add integration test for /submit endpoint
