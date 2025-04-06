@@ -279,3 +279,4 @@
 0984. ♻️ chore: clean up unused files
 0814. 🔧 refactor: remove redundant code blocks
 0514. 🐛 fix: fix broken CSS in mobile view
+0461. ✨ feat: add user authentication
