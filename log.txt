@@ -278,3 +278,4 @@
 0238. 🎨 style: apply consistent indentation
 0984. ♻️ chore: clean up unused files
 0814. 🔧 refactor: remove redundant code blocks
+0514. 🐛 fix: fix broken CSS in mobile view
