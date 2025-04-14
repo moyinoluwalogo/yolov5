@@ -292,3 +292,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0114. ♻️ chore: update .gitignore
 0041. 🐛 fix: fix broken CSS in mobile view
+0147. ♻️ chore: bump dependencies
