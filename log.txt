@@ -291,3 +291,4 @@
 0963. 🚀 perf: reduce image load time
 0796. 🔧 refactor: refactor quiz grading logic
 0114. ♻️ chore: update .gitignore
+0041. 🐛 fix: fix broken CSS in mobile view
