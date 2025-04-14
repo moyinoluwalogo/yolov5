@@ -293,3 +293,4 @@
 0114. ♻️ chore: update .gitignore
 0041. 🐛 fix: fix broken CSS in mobile view
 0147. ♻️ chore: bump dependencies
+0388. 🎨 style: reformat files with black
