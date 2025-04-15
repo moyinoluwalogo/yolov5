@@ -295,3 +295,4 @@
 0147. ♻️ chore: bump dependencies
 0388. 🎨 style: reformat files with black
 0008. 🚀 perf: reduce image load time
+0327. 🔧 refactor: split large controller into smaller functions
