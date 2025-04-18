@@ -299,3 +299,4 @@
 0086. 🐛 fix: correct typo in registration form
 0230. ✨ feat: create admin dashboard
 0544. 🔧 refactor: organize models into subfolders
+0769. ✨ feat: create admin dashboard
