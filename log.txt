@@ -311,3 +311,4 @@
 0237. 🎨 style: standardize quote style
 0979. 🎨 style: standardize quote style
 0838. 🎨 style: standardize quote style
+0280. ✅ test: add integration test for /submit endpoint
