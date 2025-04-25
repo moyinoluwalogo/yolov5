@@ -315,3 +315,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0700. 🎨 style: rename variables for clarity
 0551. 📚 docs: write FAQ section
+0243. 🔧 refactor: clean up auth middleware
