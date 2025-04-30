@@ -324,3 +324,4 @@
 0914. ✅ test: test user registration edge cases
 0159. 🚀 perf: lazy-load components
 0598. 🔧 refactor: remove redundant code blocks
+0790. 📚 docs: write FAQ section
