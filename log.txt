@@ -333,3 +333,4 @@
 0113. ✨ feat: add user authentication
 0320. 📚 docs: update README with setup steps
 0349. ✅ test: increase coverage on auth module
+0948. 🐛 fix: fix broken CSS in mobile view
