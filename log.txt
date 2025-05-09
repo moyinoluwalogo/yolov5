@@ -341,3 +341,4 @@
 0118. 🚀 perf: reduce image load time
 0232. 🎨 style: apply consistent indentation
 0368. 🚀 perf: lazy-load components
+0336. ✨ feat: add export to CSV option
