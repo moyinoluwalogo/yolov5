@@ -345,3 +345,4 @@
 0879. 🎨 style: standardize quote style
 0074. ♻️ chore: add GitHub actions badge
 0555. ✨ feat: create admin dashboard
+0886. ♻️ chore: clean up unused files
