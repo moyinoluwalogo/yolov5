@@ -353,3 +353,4 @@
 0028. 🎨 style: standardize quote style
 0180. ✨ feat: add export to CSV option
 0974. ✨ feat: add export to CSV option
+0109. 🚀 perf: lazy-load components
