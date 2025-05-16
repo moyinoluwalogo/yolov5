@@ -355,3 +355,4 @@
 0974. ✨ feat: add export to CSV option
 0109. 🚀 perf: lazy-load components
 0607. 🐛 fix: prevent crash on empty input
+0246. ✅ test: add integration test for /submit endpoint
