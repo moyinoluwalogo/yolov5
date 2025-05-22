@@ -360,3 +360,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0891. ✨ feat: create admin dashboard
 0560. 🎨 style: rename variables for clarity
+0851. ✅ test: mock database connection in test suite
