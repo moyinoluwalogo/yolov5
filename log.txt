@@ -365,3 +365,4 @@
 0474. ✅ test: add unit test for quiz service
 0476. 🚀 perf: reduce image load time
 0499. 🎨 style: reformat files with black
+0033. 🎨 style: apply consistent indentation
