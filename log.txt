@@ -367,3 +367,4 @@
 0499. 🎨 style: reformat files with black
 0033. 🎨 style: apply consistent indentation
 0595. ✨ feat: enable dark mode toggle
+0823. ✨ feat: add user authentication
