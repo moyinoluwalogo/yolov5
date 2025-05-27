@@ -373,3 +373,4 @@
 0112. ✨ feat: enable dark mode toggle
 0964. ♻️ chore: clean up unused files
 0665. ♻️ chore: update .gitignore
+0789. ✨ feat: create admin dashboard
