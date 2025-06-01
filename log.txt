@@ -384,3 +384,4 @@
 0362. 📚 docs: add API usage examples
 0081. 🐛 fix: fix null pointer exception on login
 0110. 🐛 fix: prevent crash on empty input
+0504. 📚 docs: document token refresh logic
