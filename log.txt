@@ -387,3 +387,4 @@
 0504. 📚 docs: document token refresh logic
 0421. 🔧 refactor: split large controller into smaller functions
 0296. 🔧 refactor: organize models into subfolders
+0826. 📚 docs: clarify environment setup
