@@ -389,3 +389,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0826. 📚 docs: clarify environment setup
 0546. 🐛 fix: fix null pointer exception on login
+0359. 🔧 refactor: clean up auth middleware
