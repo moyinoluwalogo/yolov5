@@ -400,3 +400,4 @@
 0284. ✨ feat: implement quiz timer feature
 0267. 📚 docs: improve code comments in utils
 0698. 🐛 fix: handle 500 error in quiz API
+0229. 🚀 perf: optimize database query for quiz results
