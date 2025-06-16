@@ -415,3 +415,4 @@
 0170. ✅ test: increase coverage on auth module
 0768. 🎨 style: remove trailing whitespace
 0253. 📚 docs: update README with setup steps
+0956. 📚 docs: clarify environment setup
