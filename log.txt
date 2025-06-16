@@ -416,3 +416,4 @@
 0768. 🎨 style: remove trailing whitespace
 0253. 📚 docs: update README with setup steps
 0956. 📚 docs: clarify environment setup
+0379. ✨ feat: support email verification
