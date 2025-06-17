@@ -417,3 +417,4 @@
 0253. 📚 docs: update README with setup steps
 0956. 📚 docs: clarify environment setup
 0379. ✨ feat: support email verification
+0988. 🐛 fix: fix broken CSS in mobile view
