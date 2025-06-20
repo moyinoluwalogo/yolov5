@@ -422,3 +422,4 @@
 0121. ✨ feat: support email verification
 0260. ✨ feat: create admin dashboard
 0201. 🔧 refactor: clean up auth middleware
+0753. 🔧 refactor: remove redundant code blocks
