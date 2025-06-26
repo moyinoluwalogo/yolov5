@@ -434,3 +434,4 @@
 0353. ♻️ chore: rename env.example
 0681. ✨ feat: create admin dashboard
 0644. 🎨 style: apply consistent indentation
+0212. 🎨 style: standardize quote style
