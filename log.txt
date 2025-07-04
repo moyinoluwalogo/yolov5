@@ -452,3 +452,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0197. 📚 docs: update README with setup steps
 0904. ✨ feat: implement quiz timer feature
+0511. 🐛 fix: fix broken CSS in mobile view
