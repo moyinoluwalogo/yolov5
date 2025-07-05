@@ -459,3 +459,4 @@
 0151. ✅ test: add unit test for quiz service
 0532. 🔧 refactor: split large controller into smaller functions
 0813. 🔧 refactor: organize models into subfolders
+0982. 🚀 perf: lazy-load components
