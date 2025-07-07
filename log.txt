@@ -461,3 +461,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0982. 🚀 perf: lazy-load components
 0569. 📚 docs: document token refresh logic
+0111. 📚 docs: update README with setup steps
