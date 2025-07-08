@@ -463,3 +463,4 @@
 0569. 📚 docs: document token refresh logic
 0111. 📚 docs: update README with setup steps
 0556. ✨ feat: support email verification
+0512. 🚀 perf: reduce image load time
