@@ -475,3 +475,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0095. ✅ test: mock database connection in test suite
 0117. ✅ test: increase coverage on auth module
+0592. 📚 docs: add API usage examples
