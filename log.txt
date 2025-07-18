@@ -478,3 +478,4 @@
 0592. 📚 docs: add API usage examples
 0356. 📚 docs: write FAQ section
 0523. ♻️ chore: bump dependencies
+0986. 📚 docs: document token refresh logic
