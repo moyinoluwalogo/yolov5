@@ -479,3 +479,4 @@
 0356. 📚 docs: write FAQ section
 0523. ♻️ chore: bump dependencies
 0986. 📚 docs: document token refresh logic
+0524. ♻️ chore: rename env.example
