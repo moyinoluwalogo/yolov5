@@ -480,3 +480,4 @@
 0523. ♻️ chore: bump dependencies
 0986. 📚 docs: document token refresh logic
 0524. ♻️ chore: rename env.example
+0220. 🐛 fix: fix null pointer exception on login
