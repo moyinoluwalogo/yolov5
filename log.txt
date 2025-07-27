@@ -493,3 +493,4 @@
 0527. 🎨 style: remove trailing whitespace
 0810. 🔧 refactor: refactor quiz grading logic
 0992. ♻️ chore: clean up unused files
+0669. ✨ feat: enable dark mode toggle
