@@ -502,3 +502,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0906. 📚 docs: add API usage examples
 0256. ✅ test: mock database connection in test suite
+0335. ♻️ chore: update .gitignore
