@@ -510,3 +510,4 @@
 0122. ✨ feat: support email verification
 0928. 🎨 style: apply consistent indentation
 0313. 🎨 style: apply consistent indentation
+0896. 🚀 perf: reduce image load time
