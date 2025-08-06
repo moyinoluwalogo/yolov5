@@ -511,3 +511,4 @@
 0928. 🎨 style: apply consistent indentation
 0313. 🎨 style: apply consistent indentation
 0896. 🚀 perf: reduce image load time
+0263. 📚 docs: add API usage examples
