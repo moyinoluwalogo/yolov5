@@ -514,3 +514,4 @@
 0263. 📚 docs: add API usage examples
 0249. ✅ test: increase coverage on auth module
 0100. ♻️ chore: update .gitignore
+0389. 📚 docs: improve code comments in utils
