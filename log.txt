@@ -525,3 +525,4 @@
 0481. ✅ test: add unit test for quiz service
 0702. ✨ feat: add user authentication
 0426. ✅ test: add integration test for /submit endpoint
+0435. ✅ test: add unit test for quiz service
