@@ -524,3 +524,4 @@
 0178. ✨ feat: support email verification
 0481. ✅ test: add unit test for quiz service
 0702. ✨ feat: add user authentication
+0426. ✅ test: add integration test for /submit endpoint
