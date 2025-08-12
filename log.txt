@@ -530,3 +530,4 @@
 0003. ✅ test: increase coverage on auth module
 0837. 🚀 perf: cache repeated calculations
 0215. 🎨 style: reformat files with black
+0848. 📚 docs: update README with setup steps
