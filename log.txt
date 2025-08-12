@@ -528,3 +528,4 @@
 0435. ✅ test: add unit test for quiz service
 0542. 🔧 refactor: organize models into subfolders
 0003. ✅ test: increase coverage on auth module
+0837. 🚀 perf: cache repeated calculations
