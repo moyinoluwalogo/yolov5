@@ -534,3 +534,4 @@
 0423. ✅ test: mock database connection in test suite
 0604. 📚 docs: add API usage examples
 0528. ♻️ chore: clean up unused files
+0599. ✅ test: test user registration edge cases
