@@ -537,3 +537,4 @@
 0599. ✅ test: test user registration edge cases
 0989. 📚 docs: write FAQ section
 0785. ✨ feat: enable dark mode toggle
+0850. ♻️ chore: rename env.example
