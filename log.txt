@@ -539,3 +539,4 @@
 0785. ✨ feat: enable dark mode toggle
 0850. ♻️ chore: rename env.example
 0299. 🐛 fix: resolve issue with date parsing
+0582. ✨ feat: add export to CSV option
