@@ -540,3 +540,4 @@
 0850. ♻️ chore: rename env.example
 0299. 🐛 fix: resolve issue with date parsing
 0582. ✨ feat: add export to CSV option
+0706. ✨ feat: support email verification
