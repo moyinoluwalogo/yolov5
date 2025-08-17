@@ -542,3 +542,4 @@
 0582. ✨ feat: add export to CSV option
 0706. ✨ feat: support email verification
 0505. ♻️ chore: add GitHub actions badge
+0342. 🚀 perf: cache repeated calculations
