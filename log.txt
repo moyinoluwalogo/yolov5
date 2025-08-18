@@ -543,3 +543,4 @@
 0706. ✨ feat: support email verification
 0505. ♻️ chore: add GitHub actions badge
 0342. 🚀 perf: cache repeated calculations
+0557. 🔧 refactor: clean up auth middleware
