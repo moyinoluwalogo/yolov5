@@ -552,3 +552,4 @@
 0471. ✨ feat: support email verification
 0531. 🐛 fix: prevent crash on empty input
 0140. 🐛 fix: handle 500 error in quiz API
+0417. 🎨 style: rename variables for clarity
