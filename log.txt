@@ -554,3 +554,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0417. 🎨 style: rename variables for clarity
 0580. ♻️ chore: bump dependencies
+0410. 🎨 style: reformat files with black
