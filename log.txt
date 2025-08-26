@@ -561,3 +561,4 @@
 0204. 🎨 style: standardize quote style
 0438. ♻️ chore: bump dependencies
 0603. 🐛 fix: fix broken CSS in mobile view
+0612. ✅ test: test user registration edge cases
