@@ -576,3 +576,4 @@
 0765. ♻️ chore: clean up unused files
 0485. 📚 docs: update README with setup steps
 0876. ♻️ chore: rename env.example
+0177. 📚 docs: add API usage examples
