@@ -594,3 +594,4 @@
 0902. ✨ feat: enable dark mode toggle
 0079. 🐛 fix: correct typo in registration form
 0278. 🔧 refactor: clean up auth middleware
+0355. 🚀 perf: optimize database query for quiz results
