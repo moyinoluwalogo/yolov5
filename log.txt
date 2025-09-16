@@ -601,3 +601,4 @@
 0217. 🚀 perf: reduce image load time
 0809. ♻️ chore: rename env.example
 0930. 🎨 style: apply consistent indentation
+0186. ✅ test: test user registration edge cases
