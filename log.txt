@@ -599,3 +599,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0601. ✨ feat: implement quiz timer feature
 0217. 🚀 perf: reduce image load time
+0809. ♻️ chore: rename env.example
