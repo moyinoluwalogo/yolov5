@@ -600,3 +600,4 @@
 0601. ✨ feat: implement quiz timer feature
 0217. 🚀 perf: reduce image load time
 0809. ♻️ chore: rename env.example
+0930. 🎨 style: apply consistent indentation
