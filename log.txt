@@ -617,3 +617,4 @@
 0241. 📚 docs: add API usage examples
 0381. ♻️ chore: clean up unused files
 0198. 📚 docs: clarify environment setup
+0771. 🚀 perf: cache repeated calculations
