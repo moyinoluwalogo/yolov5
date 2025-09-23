@@ -616,3 +616,4 @@
 0429. ✨ feat: add user authentication
 0241. 📚 docs: add API usage examples
 0381. ♻️ chore: clean up unused files
+0198. 📚 docs: clarify environment setup
