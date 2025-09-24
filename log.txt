@@ -619,3 +619,4 @@
 0198. 📚 docs: clarify environment setup
 0771. 🚀 perf: cache repeated calculations
 0149. ✨ feat: add export to CSV option
+0997. ✅ test: increase coverage on auth module
