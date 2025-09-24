@@ -621,3 +621,4 @@
 0149. ✨ feat: add export to CSV option
 0997. ✅ test: increase coverage on auth module
 0338. ♻️ chore: add GitHub actions badge
+0321. 🔧 refactor: organize models into subfolders
