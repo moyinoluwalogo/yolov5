@@ -623,3 +623,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0321. 🔧 refactor: organize models into subfolders
 0115. 🚀 perf: reduce image load time
+0224. 🐛 fix: fix broken CSS in mobile view
