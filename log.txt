@@ -622,3 +622,4 @@
 0997. ✅ test: increase coverage on auth module
 0338. ♻️ chore: add GitHub actions badge
 0321. 🔧 refactor: organize models into subfolders
+0115. 🚀 perf: reduce image load time
