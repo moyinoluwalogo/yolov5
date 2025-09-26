@@ -627,3 +627,4 @@
 0124. 🎨 style: reformat files with black
 0934. ✨ feat: support email verification
 0659. 📚 docs: add API usage examples
+0663. 🚀 perf: reduce image load time
