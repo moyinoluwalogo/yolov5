@@ -625,3 +625,4 @@
 0115. 🚀 perf: reduce image load time
 0224. 🐛 fix: fix broken CSS in mobile view
 0124. 🎨 style: reformat files with black
+0934. ✨ feat: support email verification
