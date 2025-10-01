@@ -639,3 +639,4 @@
 0409. 🚀 perf: lazy-load components
 0235. 🐛 fix: fix null pointer exception on login
 0162. ♻️ chore: add GitHub actions badge
+0020. ✅ test: add integration test for /submit endpoint
