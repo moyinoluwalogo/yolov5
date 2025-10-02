@@ -641,3 +641,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0020. ✅ test: add integration test for /submit endpoint
 0163. ✨ feat: implement quiz timer feature
+0205. 📚 docs: update README with setup steps
