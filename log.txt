@@ -652,3 +652,4 @@
 0273. 🚀 perf: reduce image load time
 0808. 🚀 perf: optimize database query for quiz results
 0357. ✅ test: add unit test for quiz service
+0075. ✅ test: mock database connection in test suite
