@@ -665,3 +665,4 @@
 0564. 📚 docs: clarify environment setup
 0869. ♻️ chore: bump dependencies
 0480. ♻️ chore: add GitHub actions badge
+0613. 🐛 fix: prevent crash on empty input
