@@ -672,3 +672,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0660. 🐛 fix: correct typo in registration form
 0391. 🐛 fix: fix null pointer exception on login
+0745. ✅ test: add unit test for quiz service
