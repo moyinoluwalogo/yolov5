@@ -677,3 +677,4 @@
 0839. 🎨 style: apply consistent indentation
 0864. 🐛 fix: correct typo in registration form
 0618. ✨ feat: support email verification
+0049. 🐛 fix: handle 500 error in quiz API
