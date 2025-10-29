@@ -695,3 +695,4 @@
 0301. 🎨 style: apply consistent indentation
 0090. ✅ test: increase coverage on auth module
 0655. 🚀 perf: cache repeated calculations
+0868. ✅ test: add unit test for quiz service
