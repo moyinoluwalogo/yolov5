@@ -696,3 +696,4 @@
 0090. ✅ test: increase coverage on auth module
 0655. 🚀 perf: cache repeated calculations
 0868. ✅ test: add unit test for quiz service
+0478. 🐛 fix: resolve issue with date parsing
