@@ -699,3 +699,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0575. ✅ test: add unit test for quiz service
 0961. 📚 docs: add API usage examples
+0897. 🐛 fix: prevent crash on empty input
