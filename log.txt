@@ -714,3 +714,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0680. ♻️ chore: add GitHub actions badge
 0463. 🚀 perf: reduce image load time
+0030. 🐛 fix: fix null pointer exception on login
