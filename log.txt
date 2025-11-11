@@ -720,3 +720,4 @@
 0962. ✨ feat: create admin dashboard
 0062. ♻️ chore: update .gitignore
 0419. 🎨 style: remove trailing whitespace
+0792. 🎨 style: standardize quote style
