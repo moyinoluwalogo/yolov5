@@ -724,3 +724,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0568. 🐛 fix: handle 500 error in quiz API
 0305. ✨ feat: enable dark mode toggle
+0295. 🎨 style: remove trailing whitespace
