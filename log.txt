@@ -722,3 +722,4 @@
 0419. 🎨 style: remove trailing whitespace
 0792. 🎨 style: standardize quote style
 0245. 🐛 fix: resolve issue with date parsing
+0568. 🐛 fix: handle 500 error in quiz API
