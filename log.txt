@@ -726,3 +726,4 @@
 0305. ✨ feat: enable dark mode toggle
 0295. 🎨 style: remove trailing whitespace
 0364. 🐛 fix: resolve issue with date parsing
+0578. ✅ test: add integration test for /submit endpoint
