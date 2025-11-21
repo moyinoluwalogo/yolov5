@@ -736,3 +736,4 @@
 0594. 🎨 style: reformat files with black
 0757. 🔧 refactor: remove redundant code blocks
 0678. ✨ feat: add user authentication
+0779. 🔧 refactor: organize models into subfolders
