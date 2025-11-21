@@ -735,3 +735,4 @@
 0946. ✅ test: add unit test for quiz service
 0594. 🎨 style: reformat files with black
 0757. 🔧 refactor: remove redundant code blocks
+0678. ✨ feat: add user authentication
