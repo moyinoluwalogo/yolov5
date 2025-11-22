@@ -739,3 +739,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0174. 📚 docs: clarify environment setup
 0080. ✨ feat: support email verification
+0475. 🔧 refactor: clean up auth middleware
