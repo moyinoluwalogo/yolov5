@@ -745,3 +745,4 @@
 0545. 🎨 style: standardize quote style
 0469. 🚀 perf: lazy-load components
 0282. 🔧 refactor: remove redundant code blocks
+0834. ✅ test: increase coverage on auth module
