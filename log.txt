@@ -752,3 +752,4 @@
 0234. ♻️ chore: rename env.example
 0055. 📚 docs: update README with setup steps
 0060. ♻️ chore: clean up unused files
+0097. 🐛 fix: handle 500 error in quiz API
