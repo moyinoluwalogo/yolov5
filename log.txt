@@ -750,3 +750,4 @@
 0044. ✅ test: add unit test for quiz service
 0985. 📚 docs: document token refresh logic
 0234. ♻️ chore: rename env.example
+0055. 📚 docs: update README with setup steps
