@@ -770,3 +770,4 @@
 0858. ♻️ chore: clean up unused files
 0764. ✨ feat: add user authentication
 0867. 🔧 refactor: refactor quiz grading logic
+0131. 📚 docs: write FAQ section
