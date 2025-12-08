@@ -777,3 +777,4 @@
 0566. 📚 docs: write FAQ section
 0775. 🐛 fix: fix null pointer exception on login
 0171. 🐛 fix: fix broken CSS in mobile view
+0735. ♻️ chore: add GitHub actions badge
