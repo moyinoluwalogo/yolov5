@@ -793,3 +793,4 @@
 0766. 🎨 style: reformat files with black
 0782. 📚 docs: improve code comments in utils
 0596. ♻️ chore: update .gitignore
+0537. 🔧 refactor: remove redundant code blocks
