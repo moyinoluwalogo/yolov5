@@ -795,3 +795,4 @@
 0596. ♻️ chore: update .gitignore
 0537. 🔧 refactor: remove redundant code blocks
 0340. 🚀 perf: optimize database query for quiz results
+0973. 🔧 refactor: organize models into subfolders
