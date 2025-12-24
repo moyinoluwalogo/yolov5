@@ -802,3 +802,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0291. 📚 docs: write FAQ section
 0862. ♻️ chore: bump dependencies
+0722. 📚 docs: add API usage examples
