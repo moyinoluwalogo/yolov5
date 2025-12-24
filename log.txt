@@ -804,3 +804,4 @@
 0862. ♻️ chore: bump dependencies
 0722. 📚 docs: add API usage examples
 0954. 🚀 perf: cache repeated calculations
+0352. ✨ feat: add export to CSV option
