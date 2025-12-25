@@ -805,3 +805,4 @@
 0722. 📚 docs: add API usage examples
 0954. 🚀 perf: cache repeated calculations
 0352. ✨ feat: add export to CSV option
+0552. 🐛 fix: fix null pointer exception on login
