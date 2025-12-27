@@ -810,3 +810,4 @@
 0712. 🎨 style: apply consistent indentation
 0885. ♻️ chore: update .gitignore
 0369. 🎨 style: standardize quote style
+0107. 🐛 fix: prevent crash on empty input
