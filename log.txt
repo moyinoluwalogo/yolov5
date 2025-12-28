@@ -812,3 +812,4 @@
 0369. 🎨 style: standardize quote style
 0107. 🐛 fix: prevent crash on empty input
 0672. 🐛 fix: fix broken CSS in mobile view
+0440. 📚 docs: update README with setup steps
