@@ -815,3 +815,4 @@
 0440. 📚 docs: update README with setup steps
 0705. 🔧 refactor: refactor quiz grading logic
 0437. 📚 docs: clarify environment setup
+0127. 🐛 fix: fix null pointer exception on login
