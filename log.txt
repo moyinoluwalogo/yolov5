@@ -816,3 +816,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0437. 📚 docs: clarify environment setup
 0127. 🐛 fix: fix null pointer exception on login
+0248. 🐛 fix: handle 500 error in quiz API
