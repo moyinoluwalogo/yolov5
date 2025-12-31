@@ -818,3 +818,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0248. 🐛 fix: handle 500 error in quiz API
 0570. 🎨 style: apply consistent indentation
+0968. 🎨 style: standardize quote style
