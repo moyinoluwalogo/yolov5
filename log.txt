@@ -819,3 +819,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0570. 🎨 style: apply consistent indentation
 0968. 🎨 style: standardize quote style
+0298. ♻️ chore: update .gitignore
