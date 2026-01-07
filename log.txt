@@ -831,3 +831,4 @@
 0770. ♻️ chore: rename env.example
 0372. ✨ feat: add user authentication
 0996. ✅ test: test user registration edge cases
+0394. 🚀 perf: lazy-load components
