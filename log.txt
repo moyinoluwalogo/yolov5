@@ -830,3 +830,4 @@
 0005. ✅ test: add unit test for quiz service
 0770. ♻️ chore: rename env.example
 0372. ✨ feat: add user authentication
+0996. ✅ test: test user registration edge cases
