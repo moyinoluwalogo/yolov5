@@ -842,3 +842,4 @@
 0535. 📚 docs: write FAQ section
 0240. 🔧 refactor: remove redundant code blocks
 0690. 🚀 perf: lazy-load components
+0936. 🔧 refactor: organize models into subfolders
