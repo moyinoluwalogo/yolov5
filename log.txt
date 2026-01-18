@@ -851,3 +851,4 @@
 0576. ♻️ chore: update .gitignore
 0106. 🎨 style: reformat files with black
 0477. 🐛 fix: fix broken CSS in mobile view
+0907. 🔧 refactor: split large controller into smaller functions
