@@ -855,3 +855,4 @@
 0634. 🎨 style: reformat files with black
 0179. 🔧 refactor: split large controller into smaller functions
 0468. 📚 docs: update README with setup steps
+0066. 🔧 refactor: clean up auth middleware
