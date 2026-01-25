@@ -864,3 +864,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0859. ✨ feat: create admin dashboard
 0543. ✨ feat: support email verification
+0998. 🐛 fix: fix null pointer exception on login
