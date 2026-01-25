@@ -866,3 +866,4 @@
 0543. ✨ feat: support email verification
 0998. 🐛 fix: fix null pointer exception on login
 0883. 📚 docs: improve code comments in utils
+0641. 📚 docs: write FAQ section
