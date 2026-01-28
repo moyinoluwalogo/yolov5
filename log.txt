@@ -870,3 +870,4 @@
 0431. 🎨 style: reformat files with black
 0009. ✨ feat: enable dark mode toggle
 0182. 🔧 refactor: remove redundant code blocks
+0977. 🔧 refactor: organize models into subfolders
