@@ -874,3 +874,4 @@
 0591. ♻️ chore: clean up unused files
 0324. 📚 docs: document token refresh logic
 0614. 🚀 perf: reduce image load time
+0747. 🔧 refactor: clean up auth middleware
