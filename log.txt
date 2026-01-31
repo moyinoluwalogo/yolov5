@@ -880,3 +880,4 @@
 0648. ♻️ chore: bump dependencies
 0470. 🎨 style: remove trailing whitespace
 0617. ✨ feat: support email verification
+0787. ♻️ chore: rename env.example
