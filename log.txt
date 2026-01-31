@@ -882,3 +882,4 @@
 0617. ✨ feat: support email verification
 0787. ♻️ chore: rename env.example
 0726. ✨ feat: enable dark mode toggle
+0799. ♻️ chore: clean up unused files
