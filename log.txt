@@ -884,3 +884,4 @@
 0726. ✨ feat: enable dark mode toggle
 0799. ♻️ chore: clean up unused files
 0860. 🔧 refactor: organize models into subfolders
+0021. ✨ feat: support email verification
