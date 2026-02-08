@@ -898,3 +898,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0798. 🚀 perf: reduce image load time
 0574. ✨ feat: enable dark mode toggle
+0666. 🐛 fix: fix broken CSS in mobile view
