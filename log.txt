@@ -902,3 +902,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0035. ✅ test: increase coverage on auth module
 0909. 🔧 refactor: organize models into subfolders
+0833. ✨ feat: add user authentication
