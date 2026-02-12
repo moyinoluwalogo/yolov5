@@ -905,3 +905,4 @@
 0833. ✨ feat: add user authentication
 0373. 📚 docs: document token refresh logic
 0302. ✨ feat: implement quiz timer feature
+0887. 📚 docs: add API usage examples
