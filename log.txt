@@ -912,3 +912,4 @@
 0935. 📚 docs: update README with setup steps
 0374. 🎨 style: standardize quote style
 0334. 🚀 perf: cache repeated calculations
+0529. 📚 docs: write FAQ section
