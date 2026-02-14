@@ -913,3 +913,4 @@
 0374. 🎨 style: standardize quote style
 0334. 🚀 perf: cache repeated calculations
 0529. 📚 docs: write FAQ section
+0026. 🔧 refactor: clean up auth middleware
