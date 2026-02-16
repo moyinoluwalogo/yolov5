@@ -918,3 +918,4 @@
 0806. 📚 docs: improve code comments in utils
 0895. ✨ feat: support email verification
 0214. 📚 docs: improve code comments in utils
+0165. 🎨 style: remove trailing whitespace
