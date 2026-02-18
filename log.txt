@@ -923,3 +923,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0878. 🔧 refactor: split large controller into smaller functions
 0587. 🔧 refactor: remove redundant code blocks
+0133. 🐛 fix: fix null pointer exception on login
