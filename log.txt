@@ -925,3 +925,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0133. 🐛 fix: fix null pointer exception on login
 0395. 📚 docs: write FAQ section
+0917. ✅ test: add integration test for /submit endpoint
