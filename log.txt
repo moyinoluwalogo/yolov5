@@ -930,3 +930,4 @@
 0547. 📚 docs: write FAQ section
 0538. 🐛 fix: fix broken CSS in mobile view
 0767. 🔧 refactor: remove redundant code blocks
+0222. 🐛 fix: handle 500 error in quiz API
