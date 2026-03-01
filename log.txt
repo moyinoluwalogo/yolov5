@@ -943,3 +943,4 @@
 0656. 🎨 style: apply consistent indentation
 0279. ✨ feat: support email verification
 0793. 📚 docs: clarify environment setup
+0154. 🐛 fix: prevent crash on empty input
