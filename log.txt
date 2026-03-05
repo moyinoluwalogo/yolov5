@@ -951,3 +951,4 @@
 0605. ✨ feat: support email verification
 0518. ✨ feat: support email verification
 0583. ✅ test: increase coverage on auth module
+0929. ✨ feat: support email verification
