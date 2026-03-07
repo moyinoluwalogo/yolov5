@@ -954,3 +954,4 @@
 0929. ✨ feat: support email verification
 0454. ♻️ chore: bump dependencies
 0742. 📚 docs: clarify environment setup
+0108. 🎨 style: remove trailing whitespace
