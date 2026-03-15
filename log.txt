@@ -965,3 +965,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0239. 🎨 style: standardize quote style
 0717. 🔧 refactor: refactor quiz grading logic
+0646. ✅ test: test user registration edge cases
