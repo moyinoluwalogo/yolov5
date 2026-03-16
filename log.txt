@@ -971,3 +971,4 @@
 0252. 🎨 style: remove trailing whitespace
 0786. ✨ feat: enable dark mode toggle
 0059. ♻️ chore: bump dependencies
+0363. 📚 docs: clarify environment setup
