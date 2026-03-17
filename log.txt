@@ -974,3 +974,4 @@
 0363. 📚 docs: clarify environment setup
 0942. ✅ test: increase coverage on auth module
 0774. 🔧 refactor: refactor quiz grading logic
+0871. ✅ test: add integration test for /submit endpoint
