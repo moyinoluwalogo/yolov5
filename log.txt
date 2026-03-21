@@ -981,3 +981,4 @@
 0541. 🐛 fix: correct typo in registration form
 0664. ✅ test: add unit test for quiz service
 0579. 📚 docs: clarify environment setup
+0078. ♻️ chore: update .gitignore
