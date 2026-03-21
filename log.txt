@@ -982,3 +982,4 @@
 0664. ✅ test: add unit test for quiz service
 0579. 📚 docs: clarify environment setup
 0078. ♻️ chore: update .gitignore
+0647. 🐛 fix: prevent crash on empty input
