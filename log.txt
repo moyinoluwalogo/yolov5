@@ -984,3 +984,4 @@
 0078. ♻️ chore: update .gitignore
 0647. 🐛 fix: prevent crash on empty input
 0831. 📚 docs: clarify environment setup
+0004. 🚀 perf: optimize database query for quiz results
